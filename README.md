@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/social-links-profile---html-and-css-responsive-card-component-M5FxScOFyj
-- Live Site URL: https://samuelabreu74.github.io/Social-links-profile/ 
+- Solution URL: https://www.frontendmentor.io/solutions/results-summary-component-with-html-css-and-javascript-ezZSCBSF_z
+- Live Site URL: https://samuelabreu74.github.io/Results-Summary-Component/ 
 
 ## My process
 
