@@ -24,7 +24,7 @@ Users should be able to:
 
 ### References Screenshots
 
-<img src="./design/destkop-design.jpg" alt="Desktop Version" width="600">
+<img src="./design/desktop-design.jpg" alt="Desktop Version" width="600">
 <img src="./design/active-states.jpg" alt="Desktop Active State Version" width="600">
 <img src="./design/mobile-design.jpg" alt="Mobile Version" width="200">
 
